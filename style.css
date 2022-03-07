@@ -25,7 +25,7 @@
   border: 1px solid grey;
   cursor: pointer;
 }
-.botao:active{
+.botao:hover{
 
   background-color: grey;
 
