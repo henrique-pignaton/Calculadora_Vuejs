@@ -25,6 +25,11 @@
   border: 1px solid grey;
   cursor: pointer;
 }
+.botao:hover{
+
+  background-color: grey;
+
+}
 
 .operadores {
   background-color: orange;
